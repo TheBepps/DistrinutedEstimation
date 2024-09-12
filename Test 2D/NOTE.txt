@@ -1,0 +1,5 @@
+Known problems:
+	DONE - Non constant velocity during motion, depends on anchors distance
+
+TODO:
+	DONE - seabed collision avoidance 

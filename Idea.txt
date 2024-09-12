@@ -1,0 +1,5 @@
+Consensus with collision avoidance in a 3d environment with ambient perturbation
+
+Marine idea -> submarine (mine avoidance)
+Air idea -> freccie tricolori jets
+Underground idea -> talpe
